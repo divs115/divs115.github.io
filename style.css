@@ -1,0 +1,9 @@
+table{
+  height:100%;
+  border: 2px solid gray;
+}
+.body-container{
+  overflow-y:scroll;
+  height:80%;
+  display:block;
+}
